@@ -1,0 +1,17 @@
+{
+  "name": "moralebot",
+  "version": "0.1.0",
+  "description": "Slack bot tracking team mood",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "slack": "^7.7.1",
+    "slackbots": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
